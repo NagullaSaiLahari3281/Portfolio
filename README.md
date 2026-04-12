@@ -27,11 +27,11 @@ This project is a **Personal Portfolio Website** built as part of my internship 
 ---
 
 ## 📂 Project Structure
-Portfolio/
-│── index.html
+Portfolio/ │── index.html
 │── style.css
 │── script.js
 │── README.md
+
 
 ---
 
