@@ -1,49 +1,67 @@
-# 🌐 Personal Portfolio Website
+# 💼 Personal Portfolio Website
 
-🚀 Front-End Developer | UI/UX Enthusiast
+This project is a **Personal Portfolio Website** built as part of my internship Task 1 at Cognetix Technology.
 
-This is my Personal Portfolio Website developed as part of my Front-End Developer Internship Task 1 at Cognetix Technology.
-
----
-
-## 🚀 Features
-
-* Responsive design (Mobile, Tablet, Desktop)
-* Modern and clean UI/UX
-* Smooth scrolling navigation
-* Sticky navigation bar
-* Interactive project cards
-* Organized and readable code structure
+👩‍💻 Developed by: **Nagulla Sai Lahari**  
+🆔 Intern ID: **CT/JD/X113**
 
 ---
 
-## 🛠️ Technologies Used
+## 🔧 Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript
-
----
-
-## 📂 Sections Included
-
-* 👩‍💻 About Me
-* 💡 Skills
-* 📁 Projects (3+ projects)
-* 📞 Contact
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ---
 
-## 🔗 Live Demo
+## ✨ Features
+
+- 👩‍💻 About Me section  
+- 🛠 Skills showcase  
+- 📂 Projects section  
+- 📞 Contact section  
+- 📱 Fully responsive design  
+- 🎨 Clean and modern UI  
+
+---
+
+## 📂 Project Structure
+Portfolio/ │── index.html
+│── style.css
+│── script.js
+│── README.md
+
+---
+
+## 🌐 Live Demo
 
 👉 https://nagullasailahari3281.github.io/Portfolio/
 
 ---
 
-## 📌 Purpose
+## 📂 GitHub Repository
 
-This project showcases my front-end development skills and my ability to build responsive and user-friendly web applications.
+👉 [https://github.com/NagullaSaiLahari3281/Cognetix_Portfolio](https://github.com/NagullaSaiLahari3281)
 
 ---
 
-✨ Thank you for visiting my portfolio!
+## 🎯 Objective
+
+The goal of this project is to:
+
+- Create a personal online presence  
+- Showcase my skills and projects  
+- Practice frontend development basics  
+
+---
+
+## 🚀 Learning Outcome
+
+- Improved HTML, CSS, JavaScript skills  
+- Learned responsive design techniques  
+- Built a complete portfolio website  
+
+---
+
+⭐ Thank you for visiting my project!
