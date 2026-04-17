@@ -19,15 +19,18 @@ Simple and user-friendly layout
 
 🛠️ Technologies Used
 
-HTML5
-CSS3
+HTML
+
+CSS
 
 ---
 
 📂 Sections Included
 
 🎬 Navbar
+
 📺 Hero Section
+
 🔘 Sign In Button
 
 ---
